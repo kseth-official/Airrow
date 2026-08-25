@@ -2,6 +2,8 @@
 
 **AI-powered interactive storytelling at the speed of imagination.**
 
+🏆 3rd Place - Supercell AI Hackathon (25-26 Oct 2026)
+
 ## The Problem
 
 Creating branching narratives for games is tedious. Every dialog needs a character, every choice needs connections, every branch needs to merge back. Traditional visual editors make you manually drag nodes, wire connections, and click through endless menus.
