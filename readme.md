@@ -1,8 +1,11 @@
 # Arrow-AI
 
-**AI-powered interactive storytelling at the speed of imagination.**
+**AI-powered Narrative Design Editor**
 
 🏆 3rd Place - Supercell AI Hackathon (25-26 Oct 2026)
+
+<img width="1911" height="1063" alt="image" src="https://github.com/user-attachments/assets/c45a513d-461c-40d9-acde-b988aea8380e" />
+
 
 ## The Problem
 
