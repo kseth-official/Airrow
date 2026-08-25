@@ -1,4 +1,4 @@
-# The Narrative Penguins
+# Airrow
 
 **AI-powered interactive storytelling at the speed of imagination.**
 
