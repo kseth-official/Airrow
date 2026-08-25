@@ -12,11 +12,11 @@ if not os.getenv("OPENAI_API_KEY"):
     )
 
 llm = ChatOpenAI(
-    model="gpt-4o",
+    model="gpt-5.6-sol",
     temperature=0.7,
 )
 
 llm_smart = ChatOpenAI(
-    model="gpt-4.1",
+    model="gpt-5.6-luna",
     temperature=0.5,
 )
