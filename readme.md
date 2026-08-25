@@ -1,4 +1,4 @@
-# Airrow
+# Arrow-AI
 
 **AI-powered interactive storytelling at the speed of imagination.**
 
