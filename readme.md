@@ -1,6 +1,6 @@
 # Arrow-AI
 
-**AI-powered Narrative Design Editor**
+**AI-powered Visual Narrative Design Editor**
 
 🏆 3rd Place - Supercell AI Hackathon (25-26 Oct 2026)
 
