@@ -6,6 +6,9 @@
 
 <img width="1911" height="1063" alt="image" src="https://github.com/user-attachments/assets/c45a513d-461c-40d9-acde-b988aea8380e" />
 
+## Collaborators
+- Sina Sun
+- Tom Shu
 
 ## The Problem
 
